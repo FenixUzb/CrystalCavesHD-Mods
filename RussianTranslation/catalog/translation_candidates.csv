@@ -1,0 +1,857 @@
+﻿priority,category,original,russian,status,occurrences,locations
+1,achievements,Antidote,,TODO,1,resources.assets:914:AchievementsBank.achievements[12].name
+1,achievements,Arachnophobic,,TODO,1,resources.assets:914:AchievementsBank.achievements[29].name
+1,achievements,B-O-N-U-S,,TODO,1,resources.assets:914:AchievementsBank.achievements[11].name
+1,achievements,Collect 1000000 worth of bonus items.,,TODO,1,resources.assets:914:AchievementsBank.achievements[23].description
+1,achievements,Collect 50 fruit throughout the levels,,TODO,1,resources.assets:914:AchievementsBank.achievements[25].description
+1,achievements,Collect 5000 crystals.,,TODO,1,resources.assets:914:AchievementsBank.achievements[17].description
+1,achievements,Collect all fruit in a single level,,TODO,1,resources.assets:914:AchievementsBank.achievements[6].description
+1,achievements,Collect Green Mushroom without dying.,,TODO,1,resources.assets:914:AchievementsBank.achievements[12].description
+1,achievements,Complete a dark level without turning on the lights,,TODO,1,resources.assets:914:AchievementsBank.achievements[8].description
+1,achievements,Complete a level with a perfect score,,TODO,1,resources.assets:914:AchievementsBank.achievements[7].description
+1,achievements,Complete a level without killing any enemies.,,TODO,1,resources.assets:914:AchievementsBank.achievements[9].description
+1,achievements,Complete any episode on Hard difficulty,,TODO,1,resources.assets:914:AchievementsBank.achievements[20].description
+1,achievements,Create and play your level.,,TODO,1,resources.assets:914:AchievementsBank.achievements[14].description
+1,achievements,Crystal Caves,,TODO,1,resources.assets:914:AchievementsBank.achievements[4].name
+1,achievements,Crystal King,,TODO,1,resources.assets:914:AchievementsBank.achievements[17].name
+1,achievements,Defeat 30 bosses,,TODO,1,resources.assets:914:AchievementsBank.achievements[22].description
+1,achievements,Destroy 10 enemies with the power of a Red Mushroom,,TODO,1,resources.assets:914:AchievementsBank.achievements[10].description
+1,achievements,Down with Overseers,,TODO,1,resources.assets:914:AchievementsBank.achievements[22].name
+1,achievements,Exterminate 250 cave creatures,,TODO,1,resources.assets:914:AchievementsBank.achievements[18].description
+1,achievements,Exterminator,,TODO,1,resources.assets:914:AchievementsBank.achievements[18].name
+1,achievements,Find 100 secret crystals,,TODO,1,resources.assets:914:AchievementsBank.achievements[5].description
+1,achievements,Find and enter a wormhole,,TODO,1,resources.assets:914:AchievementsBank.achievements[13].description
+1,achievements,Finish all episodes,,TODO,1,resources.assets:914:AchievementsBank.achievements[4].description
+1,achievements,Finish any level in under 1 minute,,TODO,1,resources.assets:914:AchievementsBank.achievements[30].description
+1,achievements,Finish Episode 1,,TODO,1,resources.assets:914:AchievementsBank.achievements[0].description
+1,achievements,Finish Episode 2,,TODO,1,resources.assets:914:AchievementsBank.achievements[1].description
+1,achievements,Finish Episode 3,,TODO,1,resources.assets:914:AchievementsBank.achievements[2].description
+1,achievements,Finish Episode 4,,TODO,1,resources.assets:914:AchievementsBank.achievements[3].description
+1,achievements,Finish your first level,,TODO,1,resources.assets:914:AchievementsBank.achievements[28].description
+1,achievements,First Steps,,TODO,1,resources.assets:914:AchievementsBank.achievements[28].name
+1,achievements,Floor is lava!,,TODO,1,resources.assets:914:AchievementsBank.achievements[26].name
+1,achievements,Forager,,TODO,1,resources.assets:914:AchievementsBank.achievements[6].name
+1,achievements,Fruit Diet,,TODO,1,resources.assets:914:AchievementsBank.achievements[25].name
+1,achievements,Gather all BONUS eggs.,,TODO,1,resources.assets:914:AchievementsBank.achievements[11].description
+1,achievements,High on Extra Points,,TODO,1,resources.assets:914:AchievementsBank.achievements[23].name
+1,achievements,Jump between crumbling platforms 15 times,,TODO,1,resources.assets:914:AchievementsBank.achievements[26].description
+1,achievements,Kill 10 spiders,,TODO,1,resources.assets:914:AchievementsBank.achievements[29].description
+1,achievements,Living in the Dark,,TODO,1,resources.assets:914:AchievementsBank.achievements[8].name
+1,achievements,Loadout,,TODO,1,resources.assets:914:AchievementsBank.achievements[21].name
+1,achievements,Mylo versus the Supernova,,TODO,1,resources.assets:914:AchievementsBank.achievements[2].name
+1,achievements,Out of Air,,TODO,1,resources.assets:914:AchievementsBank.achievements[27].name
+1,achievements,Own at least 60 ammo at once,,TODO,1,resources.assets:914:AchievementsBank.achievements[21].description
+1,achievements,Pacifist,,TODO,1,resources.assets:914:AchievementsBank.achievements[9].name
+1,achievements,Perfection,,TODO,1,resources.assets:914:AchievementsBank.achievements[7].name
+1,achievements,Prospector,,TODO,1,resources.assets:914:AchievementsBank.achievements[5].name
+1,achievements,Reverse gravity while playing reverse gravity level.,,TODO,1,resources.assets:914:AchievementsBank.achievements[24].description
+1,achievements,Reverse-reverse Gravity,,TODO,1,resources.assets:914:AchievementsBank.achievements[24].name
+1,achievements,Sandbox,,TODO,1,resources.assets:914:AchievementsBank.achievements[14].name
+1,achievements,Secret of the Volcano,,TODO,1,resources.assets:914:AchievementsBank.achievements[15].name
+1,achievements,Sharpshooter,,TODO,1,resources.assets:914:AchievementsBank.achievements[31].name
+1,achievements,Speed Runner,,TODO,1,resources.assets:914:AchievementsBank.achievements[30].name
+1,achievements,Super Mylo,,TODO,1,resources.assets:914:AchievementsBank.achievements[10].name
+1,achievements,The Hard Way,,TODO,1,resources.assets:914:AchievementsBank.achievements[20].name
+1,achievements,Treasure Hunter,,TODO,1,resources.assets:914:AchievementsBank.achievements[16].name
+1,achievements,Unlock 200 treasure chests,,TODO,1,resources.assets:914:AchievementsBank.achievements[16].description
+1,achievements,Went with the Wind,,TODO,1,resources.assets:914:AchievementsBank.achievements[19].name
+1,achievements,Woopsie!,,TODO,1,resources.assets:914:AchievementsBank.achievements[27].description
+1,achievements,Wormhole,,TODO,1,resources.assets:914:AchievementsBank.achievements[13].name
+1,achievements+episodes,Slugging it Out,,TODO,2,resources.assets:914:AchievementsBank.achievements[1].name | sharedassets1.assets:279:EpisodeInfo.episodeTitle
+1,code,' reached (,,TODO,3,Assembly-CSharp.dll:18335 | Assembly-CSharp.dll:18444 | Assembly-CSharp.dll:18487
+1,code,"After eating the red mushroom,
+you feel stronger!",,TODO,2,Assembly-CSharp.dll:7959 | Assembly-CSharp.dll:36124
+1,code,"Congratulations, all fruit picked!
+Extra ",,TODO,1,Assembly-CSharp.dll:32759
+1,code,"Don't give up now Mylo, there
+are more crystals to collect.",,TODO,2,Assembly-CSharp.dll:7947 | Assembly-CSharp.dll:36112
+1,code,Exit is missing!,,TODO,1,Assembly-CSharp.dll:19342
+1,code,INTRUDER ALERT!,,TODO,1,Assembly-CSharp.dll:21859
+1,code,Invalid placement!,,TODO,4,Assembly-CSharp.dll:18150 | Assembly-CSharp.dll:18368 | Assembly-CSharp.dll:18468 | Assembly-CSharp.dll:18512
+1,code,Level corrupted!,,TODO,1,Assembly-CSharp.dll:21853
+1,code,Level not uploaded!,,TODO,1,Assembly-CSharp.dll:22392
+1,code,Level uploaded!,,TODO,1,Assembly-CSharp.dll:22385
+1,code,Map loaded!,,TODO,1,Assembly-CSharp.dll:29896
+1,code,Map saved!,,TODO,1,Assembly-CSharp.dll:29889
+1,code,Max number of ',,TODO,3,Assembly-CSharp.dll:18335 | Assembly-CSharp.dll:18444 | Assembly-CSharp.dll:18487
+1,code,No errors found!,,TODO,1,Assembly-CSharp.dll:19365
+1,code,Not all fruit spawns are placed!,,TODO,1,Assembly-CSharp.dll:19352
+1,code,Objects are already connected!,,TODO,1,Assembly-CSharp.dll:21221
+1,code,Perfect health! ,,TODO,2,Assembly-CSharp.dll:6721 | Assembly-CSharp.dll:34495
+1,code,Place at least 1 crystal!,,TODO,1,Assembly-CSharp.dll:19347
+1,code,Player start is missing!,,TODO,1,Assembly-CSharp.dll:19337
+1,code,Set author's name in the settings!,,TODO,1,Assembly-CSharp.dll:19357
+1,code,Set levels's name in the settings!,,TODO,1,Assembly-CSharp.dll:19362
+1,code,"The creatures are stunned for
+a short time, but you can
+still move!",,TODO,2,Assembly-CSharp.dll:7971 | Assembly-CSharp.dll:36136
+1,code,"The last crystal is collected.
+You may leave this level.",,TODO,2,Assembly-CSharp.dll:7951 | Assembly-CSharp.dll:36116
+1,code,Updating...,,TODO,1,Assembly-CSharp.dll:22348
+1,code,"Use the fire key to
+activate a lever.",,TODO,2,Assembly-CSharp.dll:7935 | Assembly-CSharp.dll:36100
+1,code,"Whoa! Look out Mylo!
+Your gravity will be reversed
+for a short time. Watch the
+status bar below.",,TODO,2,Assembly-CSharp.dll:7963 | Assembly-CSharp.dll:36128
+1,code,"Whoops...you ate a poison
+green mushroom, you feel
+dizzy--your surroundings
+fade to black...",,TODO,2,Assembly-CSharp.dll:7955 | Assembly-CSharp.dll:36120
+1,code,"You have collected enough crystals!
+Report back to the mine foreman to get paid!",,TODO,1,Assembly-CSharp.dll:11276
+1,code,"You have collected enough crystals!
+Return to the Kiwi and head for the trading post.",,TODO,1,Assembly-CSharp.dll:11283
+1,code,"You hit an air generator!
+The vacuum rushes in.",,TODO,2,Assembly-CSharp.dll:7943 | Assembly-CSharp.dll:36108
+1,code,You need to enter file name!,,TODO,1,Assembly-CSharp.dll:17439
+1,code,"Your pistol can kill any
+enemy for a limited time!",,TODO,2,Assembly-CSharp.dll:7967 | Assembly-CSharp.dll:36132
+1,episodes,Troubles With Twibbles,,TODO,1,sharedassets1.assets:278:EpisodeInfo.episodeTitle
+1,story,"
+
+
+A few days later...
+
+
+Mylo purchases passage on a starship
+to the outermost stop the transport
+goes and wonders what adventures
+lay ahead of him.  
+",,TODO,1,level3:377:StoryWindow.entries[0].text
+1,story,"
+
+He was right! He started selling slugs so
+fast that he was in danger of running out.
+
+The slugs would burrow under the sand in
+order to keep cool during the hot days,
+and this led to Mylo's downfall.
+
+The slugs burrowed into an old salt mine.
+Soon after, Mylo's slugs and his profits
+here quickly dried up.",,TODO,1,level3:411:StoryWindow.entries[1].text
+1,story,"
+""Mylo, just sign here on the dotted line
+and she's all yours, heh heh heh.""
+
+""Well...shouldn't I read this first?
+You know, all this fine print...""
+
+""No, no, no, no - that's just lawyer talk,
+it means nothing to you and me,
+heh heh heh.""
+
+
+""Well, I guess, if you say so.""",,TODO,1,level3:407:StoryWindow.entries[2].text
+1,story,"
+After living it high on the hog these past
+few decades from the fortune he made on
+his chain of burger joints.
+
+Mylo booked an extended galactic vacation
+on board the stellar cruise ship VeeGer
+that promised an exciting trip to the far
+flung reaches of the known galaxy plus a
+visit to the fabled and mysterious badlands
+triangle where many ships have been
+reported ""missing"".",,TODO,2,level7:786:StoryWindow.entries[0].text | level7:824:TextDisplayer.text
+1,story,"
+After performing a few calculations and
+doing an intensive scan with his personal
+quadcorder, Mylo determines that it is the
+VeeGer itself that is causing the Ion storm
+and that the ship could be drawn into the
+phenomenon with unknown consequences.
+
+Mylo jumps into the turbovator and tells the
+computer to take him to the bridge so that
+he can inform the captain to change course.  
+",,TODO,2,level7:796:TextDisplayer.text | level7:843:StoryWindow.entries[0].text
+1,story,"
+When the turbovator comes out the other
+side of the wormhole, Mylo has no idea
+where he is. He connects his quadcorder to
+the computer in the turbovator and it
+reports that he is in the delta quadrant,
+70,000 light years from home.
+
+A few days later a passing
+salvage ship rescues him, but his vast
+fortune is worthless here, and he needs to
+find a way to pay for transport home.  
+",,TODO,1,level7:812:StoryWindow.entries[0].text
+1,story,"""Ah...problem solved!""",,TODO,1,level7:799:Kiwi.actions[5].messageOnAction
+1,story,"""Made it again! Now I need to collect
+enough crystals to trade at the
+Galactic Trading Post.""",,TODO,1,level7:778:Kiwi.actions[8].messageOnAction
+1,story,"""One last time! Now I need to
+collect enough crystals to trade
+at the Galactic Trading Post.""",,TODO,1,level7:799:Kiwi.actions[7].messageOnAction
+1,story,"""One of these days I'm going to
+trade in the Kiwi for a ship that
+actually flies straight!""",,TODO,1,level7:799:Kiwi.actions[1].messageOnAction
+1,story,"""Uh oh...the steering
+system is failing again!""",,TODO,1,level7:801:Kiwi.actions[5].messageOnAction
+1,story,"""Well, there goes the Kiwi's
+steering system again!""",,TODO,1,level7:778:Kiwi.actions[5].messageOnAction
+1,story,"""Whew, stopped this time!""",,TODO,1,level7:778:Kiwi.actions[6].messageOnAction
+1,story,"""Whew...made it! Now I need
+to collect enough crystals to trade
+at the galactic Trading Post.""",,TODO,1,level7:801:Kiwi.actions[8].messageOnAction
+1,story,"""Whoa! Where'd that come from!""",,TODO,1,level7:801:Kiwi.actions[6].messageOnAction
+1,story,"<color=#CDEE98>VeGeer Captain: </color>“To all passengers,
+hang on as we are closing the Ion storm
+and we need to perform an emergency
+evasion maneuver!“",,TODO,1,level7:837:IntroSceneEp4.sceneActions[6].messageText
+1,story,"A Terrible Second Later...
+
+Mylo barely escapes with his life as the
+star he just bought erupts into
+a fiery supernova.
+
+The Millennium Kiwi rocks and tumbles
+as shock waves pummel Mylo senseless.
+
+""What a bummer.""
+
+Mylo speeds away from the blazing
+inferno realizing he's blundered again.",,TODO,1,level3:359:StoryWindow.entries[0].text
+1,story,"Congratulations, but your quest for
+riches is not yet complete.
+
+You will need to fly the Kiwi back to the
+perilous Altair system and locate entirely
+new crystal caves to explore.
+
+Will Mylo survive his next trip in the
+rattle-trap he calls the Millennium Kiwi?
+
+Will he survive the diabolical new traps
+and puzzles that await him?",,TODO,1,level3:429:StoryWindow.entries[1].text
+1,story,"I just hope I can make it to
+Altair. The Kiwi is 11 light-
+years past its last oil change,
+and the holographic steering
+assembly seems to be acting up.
+I better steer clear of
+anything big...",,TODO,2,level7:817:TextDisplayer.text | level7:911:TextDisplayer.text
+1,story,"In Rip's Ship...
+
+""Glad you could make it, Mylo.""
+
+""Sorry, I'm late, but I had to clean a few
+Twibbles out of my ship's anti-plasma
+fuel port.""
+
+""Twibbles, huh. I bought one once, and
+now I've got 400. Anyway, I'm in a bit of
+a rush, can we get down to business...""
+
+Rip pulls out the deed and puts
+it quickly on the table.",,TODO,1,level3:407:StoryWindow.entries[1].text
+1,story,"Just then the salvage ship lands
+and the captain kicks him off saying:
+“We don’t transport deadbeats!
+Good luck getting off this mining colony.""",,TODO,1,level7:822:IntroSceneEp4.sceneActions[2].messageText
+1,story,"Later that day...
+
+Mylo finally got enough to buy his very
+own solar system, which he planned to
+make into a vacation resort.
+
+The inner planets would be for swimmers
+and tanning, the outer planets would
+have ski resorts, and the middle all the
+lodging and tourist shops.
+
+Mylo docks and boards Mr. Rip Eweoff's
+ship at the solar system, ready
+to sign the Deed.",,TODO,1,level3:407:StoryWindow.entries[0].text
+1,story,"Later...
+
+
+At first, Mylo thought he had finally
+discovered the get rich scheme he'd been
+searching for all his life.
+
+
+His plan was to sell the giant, full body
+slugs to the Galactic Medical
+Conglomeration for medical purposes.",,TODO,1,level3:411:StoryWindow.entries[0].text
+1,story,"Personal Entry - Record Mode On:
+
+Forget the farming business, I've
+had enough! Fortunately, I saw a
+program on Galactic Cable Vision
+than changed my life!
+
+Mr. Rip Eweoff was selling his
+technique to buy real estate
+with no money down.  Finally, 
+I'd seen the light!",,TODO,1,level7:908:TextDisplayer.text
+1,story,Ship's Log - Stardate 2121.04,,TODO,1,level7:832:TextDisplayer.text
+1,story,Ship's Log – Stardate 2121.47,,TODO,1,level7:904:TextDisplayer.text
+1,story,Ship's Log – Stardate 2121.93,,TODO,1,level7:913:TextDisplayer.text
+1,story,Ship's Log – Stardate 2123.02,,TODO,1,level7:900:TextDisplayer.text
+1,story,Ship's Log – Stardate 2123.03,,TODO,1,level7:912:TextDisplayer.text
+1,story,"Six Months Later...
+
+""Welcome to Mylo Burger, can I take
+your order please?""
+
+Two teenagers in their space van
+order their meal.
+
+""We'll take two Mylo Burgers with mayo,
+two Solar Fries and a couple of
+Mylo Mocha Malts.""
+
+""That'll be $59.95 at the first
+window. Please fly through.""",,TODO,1,level3:359:StoryWindow.entries[2].text
+1,story,"Three months later...
+
+Poor Mylo. It seems Twibbles
+breed at a faster rate than he
+expected  theyve overrun the
+entire planet! Due to their
+high metabolism, Twibbles
+eat ten times their weight
+each day. Theyve devoured
+the worlds entire food supply!
+
+Whats worse, the Twibble fad
+is dead, and Mylos stuck with
+a planet full of them...!",,TODO,1,level3:430:TextDisplayer.text
+1,story,"Three months later...
+
+Poor Mylo. It seems Twibbles breed at a
+faster rate than he expected - they've
+overrun the entire planet! Due to their
+high metabolism, Twibbles eat ten times
+their weight each day. 
+
+They've devoured the world's entire
+food supply!
+
+What's worse, the Twibble fad is dead,
+and Mylo's stuck with a planet
+full of them...!",,TODO,1,level3:429:StoryWindow.entries[0].text
+1,story,"Two Weeks Later...
+
+Barely recovered, Mylo returns to the
+spot when he used to own a solar system.
+
+All that's left marking the location is a
+big, stupid cloud of colorful vapor
+and dust.
+
+""Rats, I buy a solar system and I get
+stuck with a nebula.""
+
+Suddenly Mylo has the first real
+brainstorm of his life!",,TODO,1,level3:359:StoryWindow.entries[1].text
+1,story,"You collect what you consider
+to be a fortune in precious
+crystals - enough to buy you
+everything necessary to start 
+a twibble farm.
+
+Your next stop is the local
+Galactic Trading Post...",,TODO,1,level8:187:Kiwi.actions[0].messageOnAction
+1,story,"You finally collect enough of the
+hard to find crystals to invest in the
+medicinal slug farm.
+
+
+You head towards the local
+Galactic Trading Post...",,TODO,1,level8:202:Kiwi.actions[0].messageOnAction
+1,story,"Your dreams of the most fantastic
+vacation resort in the galaxy can
+now be realized.
+
+You turn the Kiwi towards the
+familiar Galactic Trading Post.",,TODO,1,level8:178:Kiwi.actions[0].messageOnAction
+1,story,"“Of course, mining! Time to get digging!”",,TODO,1,level7:822:IntroSceneEp4.sceneActions[3].messageText
+1,story,"“Uh-oh....""",,TODO,1,level7:837:IntroSceneEp4.sceneActions[7].messageText
+1,ui,"
+
+A few days later...
+
+
+Mylo has purchased a one way ticket on
+a transport to the end of the line that will
+get him closer to home.  As he stares into
+the vastness of space he ponders what
+adventures lay ahead of him.",,TODO,1,level3:317:LabelMain
+1,ui,(Y)es          (N)o,,TODO,3,level1:1801:lblYesNo | level2:2925:lblYesNo | level6:951:lblYesNo
+1,ui,1x,,TODO,2,level4:1358:SelectorLabel | level5:813:SelectorLabel
+1,ui,"<color=#CDEE98>+1 heart
+Lower enemy health</color>
+<color=#FF6B6A>0.5x score</color>",,TODO,1,level1:1790:Description - Easy
+1,ui,"<color=#CDEE98>1.5x score</color>
+<color=#FF6B6A>-1 heart
+Less ammo</color>",,TODO,1,level1:1753:Description - Hard
+1,ui,<color=#FFAE70>Troubles with Tweebles</color>,,TODO,1,level1:1747:Episode Name
+1,ui,A,,TODO,1,resources.assets:1009:Text
+1,ui,A secret Wormhole has opened,,TODO,1,level6:954:PortalUnlocked
+1,ui,About Apogee,,TODO,1,level1:1811:lblAbout
+1,ui,Achieved,,TODO,1,level1:1765:Label - Achieved
+1,ui,Achievement Earned,,TODO,1,resources.assets:1136:Achievement Desc
+1,ui,Achievement name,,TODO,1,level1:1806:Achievement Name
+1,ui,ACHIEVEMENTS,,TODO,1,level1:1752:Title
+1,ui,Achievements,,TODO,1,level1:1834:lblAchievements
+1,ui,ApogeeTeam,,TODO,2,sharedassets1.assets:297:AuthorNameLabel | sharedassets1.assets:329:AuthorNameLabel
+1,ui,Arrow keys / WASD,,TODO,2,level4:1399:lblNavigate1 | level5:796:lbl1 (1)
+1,ui,Author,,TODO,3,level1:1777:AuthorNameLabel | level4:1421:lblAuthorName | level5:781:lblAuthorName
+1,ui,Author:,,TODO,1,level1:1782:lblAuthor
+1,ui,B,,TODO,1,resources.assets:983:Text
+1,ui,Bad,,TODO,1,level6:982:lblBad
+1,ui,Best episode results,,TODO,1,level1:1852:Episodes Title
+1,ui,Best Score,,TODO,4,level1:1742:lblBestScore | level1:1760:lblBestScore | level1:1774:lblBestScore | level1:1816:lblBestScore
+1,ui,"BitField
+",,TODO,1,resources.assets:1215:Text
+1,ui,Button,,TODO,1,resources.assets:946:Text
+1,ui,CHANGING OBJECT PROPERTIES,,TODO,1,level4:1389:Title 2
+1,ui,"Color
+",,TODO,1,resources.assets:980:Text
+1,ui,Complete a dark level without turning on the lights.,,TODO,1,level1:1848:Achievement Desc
+1,ui,COMPLETED!,,TODO,1,level6:947:Completed
+1,ui,CONFIGURE KEYBOARD,,TODO,3,level1:1794:Title | level2:2950:Title | level6:976:Title
+1,ui,Configure keys,,TODO,3,level1:1807:lblKeyboard | level2:2969:lblKeyboard | level6:1000:lblKeyboard
+1,ui,CONGRATULATIONS!!!,,TODO,1,level1:1780:Title
+1,ui,CRYSTAL CAVES HD,,TODO,1,level1:1832:Text (TMP)
+1,ui,Crystal Caves HD,,TODO,1,level1:1880:Text (TMP) (1)
+1,ui,"CRYSTAL CAVES MENU
+_______________________",,TODO,2,level2:2927:Title | level6:950:Title
+1,ui,Crystals collected:,,TODO,1,level1:1762:Stat - Crystals Collected
+1,ui,CRYSTALS:,,TODO,1,level8:168:CrystalsLabel
+1,ui,Ctrl + left click,,TODO,1,level4:1374:lblBackground
+1,ui,CUSTOM MAPS,,TODO,1,level1:1911:Title
+1,ui,Deaths:,,TODO,1,level1:1789:Stat - Deaths
+1,ui,Default,,TODO,4,level1:1856:SelectorLabel | level2:2953:SelectorLabel | level4:1425:SelectorLabel | level6:979:SelectorLabel
+1,ui,Delete,,TODO,2,level4:1397:lblDelete Key | level5:794:lbl1-key
+1,ui,Description,,TODO,1,level4:1349:lblDescription
+1,ui,Description:,,TODO,3,level1:1746:Label Description | level1:1846:Label Description | level1:1847:Label Description
+1,ui,Difficulty:,,TODO,1,level1:1767:AuthorNameLabel (2)
+1,ui,Do you really want to quit the game?,,TODO,2,level2:2924:Title | level6:946:Title
+1,ui,Do you want to quit the game?,,TODO,1,level1:1821:Title
+1,ui,Down,,TODO,3,level1:1869:lblKey | level2:2937:lblKey | level6:962:lblKey
+1,ui,Down Arrow,,TODO,3,level1:1857:lblValue | level2:2968:lblValue | level6:997:lblValue
+1,ui,Downloads:,,TODO,1,level1:1833:Amount
+1,ui,Easy,,TODO,2,level1:1798:AuthorNameLabel (3) | level1:1900:lblEasy
+1,ui,Enemies (5),,TODO,1,level4:1893:UIEditModeButton.tooltip
+1,ui,Enemies killed:,,TODO,1,level1:1829:Stat - Enemies Killed
+1,ui,ENTRIES: 0,,TODO,1,level1:1817:Entries
+1,ui,Episode 1,,TODO,2,level1:1814:lblEpisodeName | level1:2259:OptionLabel.extraTextValue
+1,ui,Episode 2,,TODO,2,level1:1745:lblEpisodeName | level1:2269:OptionLabel.extraTextValue
+1,ui,Episode 3,,TODO,2,level1:1793:lblEpisodeName | level1:2275:OptionLabel.extraTextValue
+1,ui,Episode 4,,TODO,2,level1:1804:lblEpisodeName | level1:2267:OptionLabel.extraTextValue
+1,ui,falling Rocks,,TODO,2,level4:1394:Label (2) | level5:793:Label (2)
+1,ui,Festive Content,,TODO,3,level1:1914:lblFestiveContent | level2:2939:lblFestiveContent | level6:964:lblFestiveContent
+1,ui,Fill terrain,,TODO,1,level4:1384:lblBackground Key
+1,ui,Fire,,TODO,3,level1:1874:lblKey | level2:2932:lblKey | level6:959:lblKey
+1,ui,Foldout,,TODO,1,resources.assets:923:Text
+1,ui,"Foldout
+",,TODO,1,resources.assets:981:Text
+1,ui,Frank Maddin,,TODO,1,level1:1876:Text (TMP)
+1,ui,Fruit collected:,,TODO,1,level1:1845:Stat - Fruit Collected
+1,ui,"Full body slugs should make me a fortune on
+the Black Hole market.
+
+Off I go into the Altairian system once again,
+and deep into the dangerous crystal caves...
+
+
+
+Personal Entry – <color=#FF5353>Record Off.</color>",,TODO,1,level7:763:LabelMain
+1,ui,Full screen artwork,,TODO,1,level1:1883:Text (TMP) (1)
+1,ui,Fullscreen,,TODO,3,level1:1803:lblFullscreen | level2:2970:lblFullscreen | level6:999:lblFullscreen
+1,ui,G,,TODO,1,resources.assets:940:Text
+1,ui,Game Design,,TODO,1,level1:1878:Text (TMP) (1)
+1,ui,GAME SETTINGS,,TODO,3,level1:1891:Title | level2:2945:Title | level6:969:Title
+1,ui,Game tips,,TODO,3,level1:1892:lblGameTips | level2:2944:lblGameTips | level6:968:lblGameTips
+1,ui,Gamepad Fire,,TODO,3,level1:1870:lblKey | level2:2936:lblKey | level6:961:lblKey
+1,ui,Gamepad Jump,,TODO,3,level1:1871:lblKey | level2:2935:lblKey | level6:960:lblKey
+1,ui,Gameplay statistics,,TODO,1,level1:1818:Gameplay Statistics
+1,ui,George Broussard,,TODO,1,level1:1889:Text (TMP)
+1,ui,Global,,TODO,1,level1:2264:OptionLabel.extraTextValue
+1,ui,Graphics,,TODO,1,level1:1882:Text (TMP) (1)
+1,ui,Graphics Routines,,TODO,1,level1:1879:Text (TMP) (1)
+1,ui,"Graphics, Game Design",,TODO,1,level1:1877:Text (TMP) (1)
+1,ui,Great,,TODO,1,level6:980:lblGreat
+1,ui,Grid,,TODO,1,level4:1934:MenuButton.tooltip
+1,ui,Hard,,TODO,1,level1:1902:lblHard
+1,ui,Help,,TODO,2,level4:1572:MenuButton.tooltip | level5:1095:MenuButton.tooltip
+1,ui,"HELP
+____________________________________",,TODO,1,level5:795:Title
+1,ui,How would you rate the level?,,TODO,1,level6:953:Rate Label
+1,ui,Info,,TODO,1,level1:1779:Label - Info
+1,ui,Inverse Gravity,,TODO,2,level4:1405:Label | level5:789:Label
+1,ui,Jim Norwood,,TODO,1,level1:1887:Text (TMP)
+1,ui,Jump,,TODO,3,level1:1872:lblKey | level2:2933:lblKey | level6:957:lblKey
+1,ui,"Just then the salvage ship lands
+and the captain kicks him off saying:
+“We don’t transport deadbeats!
+Good luck getting off this mining colony.""  
+
+Of course, mining! Time to get digging! 
+",,TODO,2,level7:747:LabelMessage | level7:752:LabelMessage
+1,ui,Kaboooooooooooooooooooom!!!!,,TODO,2,level3:319:LabelMessage | level3:331:LabelMessage
+1,ui,KEY SHORTCUTS,,TODO,1,level4:1386:Title 1
+1,ui,Leaderboards,,TODO,1,level1:1820:lblHighscores
+1,ui,LEADERBOARDS,,TODO,1,level1:1864:Title
+1,ui,Left,,TODO,3,level1:1867:lblKey | level2:2977:lblKey | level6:1007:lblKey
+1,ui,Left Arrow,,TODO,3,level1:1894:lblValue | level2:2943:lblValue | level6:967:lblValue
+1,ui,Left Control,,TODO,6,level1:1858:lblValue | level1:1862:lblValue | level2:2963:lblValue | level2:2967:lblValue | level6:994:lblValue | level6:996:lblValue
+1,ui,Level description,,TODO,1,level1:1843:Description Text
+1,ui,Level Editor,,TODO,1,level1:1756:lblEditor
+1,ui,Level Playtime,,TODO,3,level1:1910:lblShowTimer | level2:2930:lblShowTimer | level6:955:lblShowTimer
+1,ui,Levels finished:,,TODO,1,level1:1827:Stat - Levels Finished
+1,ui,Loading maps...,,TODO,1,level1:1823:Text (TMP)
+1,ui,Loading scores...,,TODO,1,level1:1799:Text (TMP)
+1,ui,Low Gravity,,TODO,2,level4:1356:Label (1) | level5:814:Label (1)
+1,ui,Lucinda Maddin,,TODO,1,level1:1884:Text (TMP)
+1,ui,Main Level,,TODO,2,level2:2958:lblMainLevel | level6:981:lblMainLevel
+1,ui,Map,,TODO,2,level1:1784:MapNameLabel | level1:1800:Label - Map Name
+1,ui,Map Name,,TODO,2,level4:1407:lblMapName | level5:787:lblMapName
+1,ui,MAP SETTINGS,,TODO,1,level4:1380:Title
+1,ui,"MAP SETTINGS
+___________________________",,TODO,1,level5:807:Title
+1,ui,"Message, show yourself!",,TODO,1,level7:750:LabelMessage
+1,ui,"Metal Factory 
+",,TODO,1,level6:949:Title
+1,ui,Middle mouse + Drag,,TODO,2,level4:1378:lblNavigate2 | level5:800:lbl1 (2)
+1,ui,Minimap,,TODO,1,level4:1498:MenuButton.tooltip
+1,ui,Music,,TODO,6,level1:1881:Text (TMP) (1) | level1:1893:lblMusic | level2:2946:lblMusic | level4:1351:Label | level5:812:Label | level6:970:lblMusic
+1,ui,"My plan is to return to the crystal caves to
+acquire the necessary funds to develop my real
+estate venture - a vacation resort!
+
+
+
+
+Personal Entry – <color=#FF5353>Record Off.</color>",,TODO,1,level7:762:LabelMain
+1,ui,Mylo Versus the Supernova,,TODO,1,sharedassets1.assets:312:lblName
+1,ui,Navigate,,TODO,4,level4:1355:lblNavigate2 Key | level4:1424:lblNavigate1 Key | level5:783:lbl1-key (1) | level5:815:lbl1-key (2)
+1,ui,Navigation,,TODO,1,level5:1022:UIEditModeButton.tooltip
+1,ui,Navigation (1),,TODO,1,level4:1810:UIEditModeButton.tooltip
+1,ui,New,,TODO,2,level4:1925:MenuButton.tooltip | level5:919:MenuButton.tooltip
+1,ui,New game,,TODO,1,level1:1771:lblNewGame
+1,ui,New Text,,TODO,42,level4:1404:Map Name Label | level5:788:DebuText | resources.assets:1022:Text | resources.assets:1023:Text | resources.assets:1024:Text | resources.assets:1025:Text | resources.assets:1058:Text | resources.assets:1062:Text
+1,ui,Next/prev tile,,TODO,1,level4:1400:lblBackground Key
+1,ui,No,,TODO,2,level4:1370:txtButton | level5:802:txtButton
+1,ui,Normal,,TODO,1,level1:1909:lblNormal
+1,ui,Objects,,TODO,1,level5:1173:UIEditModeButton.tooltip
+1,ui,Objects (6),,TODO,1,level4:1456:UIEditModeButton.tooltip
+1,ui,Off,,TODO,1,level4:1359:SelectorLabel
+1,ui,on,,TODO,15,level1:1781:lblGameTipsValue | level1:1785:lblFullscreenValue | level1:1853:lblLevelPlatimeValue | level1:1854:lblRumbleValue | level1:1896:lblFestiveContentValue | level2:2940:lblFestiveContentValue | level2:2971:lblFullscreenValue | level2:2972:lblGameTipsValue
+1,ui,Open,,TODO,2,level4:1364:txtButton | level5:808:txtButton
+1,ui,OPEN MAP,,TODO,1,level4:1352:Title
+1,ui,Open Map,,TODO,2,level4:2035:MenuButton.tooltip | level5:862:MenuButton.tooltip
+1,ui,"OPEN MAP
+____________________________________",,TODO,1,level5:811:Title
+1,ui,Options,,TODO,2,level2:2954:lblOptions | level6:985:lblOptions
+1,ui,Original experience,,TODO,1,level1:1831:Description - Normal
+1,ui,ORIGINAL GAME,,TODO,1,level1:1787:Text (TMP)
+1,ui,Ozzed,,TODO,1,level1:1885:Text (TMP)
+1,ui,Page 1,,TODO,1,level4:1381:SelectorLabel
+1,ui,Page: ...,,TODO,1,level1:1839:labelPage
+1,ui,Peder Jungck,,TODO,1,level1:1890:Text (TMP)
+1,ui,"Personal Entry - <color=#CDEE98>Record On.</color>
+
+After enjoying all the adventures of parts of the
+galaxy that very few people ever get to see, the
+final destination, the mysterious badlands
+triangle is finally within our sight!",,TODO,1,level7:759:LabelMain
+1,ui,"Personal Entry - <color=#CDEE98>Record On.</color>
+
+I know I can raise money here in the delta
+quadrant, which for some odd reason the
+people here call it the Alpha quadrant, but
+how to get started?  
+
+
+Personal Entry – <color=#FF5353>Record interrupted.</color>",,TODO,1,level7:761:LabelMain
+1,ui,"Personal Entry - <color=#CDEE98>Record On.</color>
+
+I've decided to fly into the Altairian star system
+against my better judgement. The perilous
+caves of Altair are my best hope of getting
+enough cash for a down payment on a Twibble
+farm.",,TODO,1,level7:740:LabelMain
+1,ui,Pickups (4),,TODO,1,level4:1945:UIEditModeButton.tooltip
+1,ui,Player start already exists!,,TODO,2,level4:1411:Label | level5:780:Title (1)
+1,ui,press any key,,TODO,8,level1:1865:LabelPressAnyKey | level7:745:LabelPressAnyKey | level7:748:LabelPressAnyKey | level7:749:LabelPressAnyKey | level7:751:LabelPressAnyKey | level7:753:LabelPressAnyKey | level7:757:LabelPressAnyKey | level8:166:LabelPressAnyKey
+1,ui,Primož Vovk,,TODO,1,level1:1886:Text (TMP)
+1,ui,"Programming, Graphics,
+Game Design",,TODO,1,level1:1875:Text (TMP) (1)
+1,ui,PUBLISH TO STEAM,,TODO,1,level4:1423:Title
+1,ui,Publish to Steam,,TODO,1,level4:1560:MenuButton.tooltip
+1,ui,Q/E,,TODO,1,level4:1350:lblBackground
+1,ui,Quit,,TODO,3,level1:1751:lblQuit | level2:2960:lblQuitGame | level6:986:lblQuitGame
+1,ui,Quit game,,TODO,2,level2:2959:lblQuitGame | level6:984:lblQuitGame
+1,ui,QUIT TO?,,TODO,2,level2:2928:Title | level6:952:Title
+1,ui,R,,TODO,1,resources.assets:996:Text
+1,ui,Randomize Terrain,,TODO,1,level4:1965:MenuButton.tooltip
+1,ui,Regen Bcg,,TODO,1,level4:1408:lblBackground Key
+1,ui,Reputation:,,TODO,1,level1:1763:Rating
+1,ui,Restart,,TODO,2,level2:2956:lblRestart | level6:988:lblRestart
+1,ui,Restore game,,TODO,1,level1:1851:lblLoadGame
+1,ui,RESTORE GAME,,TODO,3,level1:1895:Title | level2:2949:Title | level6:973:Title
+1,ui,Restore Game,,TODO,2,level2:2957:lblRetoreGame | level6:989:lblRetoreGame
+1,ui,Right,,TODO,3,level1:1873:lblKey | level2:2934:lblKey | level6:958:lblKey
+1,ui,Right Arrow,,TODO,3,level1:1861:lblValue | level2:2965:lblValue | level6:993:lblValue
+1,ui,Right Control,,TODO,6,level1:1860:lblValue | level1:1863:lblValue | level2:2962:lblValue | level2:2964:lblValue | level6:991:lblValue | level6:992:lblValue
+1,ui,Rockets fired:,,TODO,1,level1:1743:Stat - Rockets Fired
+1,ui,Rumble,,TODO,3,level1:1897:lblRumble | level2:2942:lblRumble | level6:966:lblRumble
+1,ui,Save,,TODO,4,level4:1395:txtButton | level5:792:txtButton | level4:2047:MenuButton.tooltip | level5:901:MenuButton.tooltip
+1,ui,Save As,,TODO,2,level4:1668:MenuButton.tooltip | level5:1039:MenuButton.tooltip
+1,ui,SAVE GAME,,TODO,2,level2:2941:Title | level6:1006:Title
+1,ui,Save game,,TODO,2,level2:2961:lblSaveGame | level6:983:lblSaveGame
+1,ui,SAVE MAP,,TODO,1,level4:1367:Title (1)
+1,ui,"SAVE MAP
+____________________________________",,TODO,1,level5:809:Title (1)
+1,ui,Score,,TODO,1,level1:1772:BestScoreLabel
+1,ui,Score items found:,,TODO,1,level1:1791:Stat - Score Items
+1,ui,Scott Miller,,TODO,1,level1:1888:Text (TMP)
+1,ui,Secret crystals found:,,TODO,1,level1:1797:Stat - Secret Crystals
+1,ui,Select activator with a left-click and make a connection with a target object by right clicking on it.,,TODO,1,level4:1393:Description
+1,ui,SELECT AN EPISODE,,TODO,1,level1:1844:Title
+1,ui,SELECT AN OPTION,,TODO,1,level1:1754:Title
+1,ui,SELECT DIFFICULTY,,TODO,1,level1:1836:Title
+1,ui,SELECT LEADERBOARDS,,TODO,1,level1:1741:Title
+1,ui,Settings,,TODO,6,level1:1812:lblOptions | level4:1373:Text (4) | level4:1387:Text (4) | level5:803:Text (4) | level4:2051:MenuButton.tooltip | level5:906:MenuButton.tooltip
+1,ui,Shift + left click,,TODO,2,level4:1372:lblDelete | level5:801:lbl1
+1,ui,Ship date,,TODO,5,level7:743:Title | level7:758:Title | level7:760:Title | level7:764:Title | level7:765:Title
+1,ui,Skin,,TODO,3,level1:1855:Label (1) | level2:2951:Label (1) | level6:977:Label (1)
+1,ui,Skip,,TODO,1,level6:990:lblSkip
+1,ui,Slugging It Out,,TODO,2,level1:1904:lblEpisode2 | level1:1906:lblEpisode2
+1,ui,Some objects have more than one property and you can switch between them by right-clicking on the object.,,TODO,1,level4:1376:Description
+1,ui,Sound ,,TODO,3,level1:1913:lblSounds | level2:2931:lblSounds | level6:956:lblSounds
+1,ui,Statistics,,TODO,1,level1:1825:lblStatistics
+1,ui,STATISTICS,,TODO,1,level1:1837:Title
+1,ui,Status:,,TODO,1,level1:1761:Service Status
+1,ui,Steam Workshop,,TODO,1,level1:1786:lblSteamWorkshop
+1,ui,SteamID: 0,,TODO,1,level1:1840:Steam ID
+1,ui,Story,,TODO,1,level1:1775:lblStory
+1,ui,Studio content,,TODO,1,level6:948:Debu Studio Content
+1,ui,subscribed,,TODO,1,level1:1773:SelectorLabel
+1,ui,Switch edit modes,,TODO,1,level4:1377:lblBackground
+1,ui,Tab,,TODO,1,level4:1357:lblBackground
+1,ui,TARGETING OBJECTS,,TODO,1,level4:1348:Title 3
+1,ui,"Targeting objects
+",,TODO,1,level5:786:lbl1 (3)
+1,ui,Terrain (2),,TODO,1,level4:1884:UIEditModeButton.tooltip
+1,ui,TEST,,TODO,1,resources.assets:1174:Text
+1,ui,Test,,TODO,2,level4:1790:MenuButton.tooltip | level5:1013:MenuButton.tooltip
+1,ui,The Road We Take Ago,,TODO,2,sharedassets1.assets:301:MapNameLabel | sharedassets1.assets:333:MapNameLabel
+1,ui,Theme,,TODO,1,level4:1413:Label (1)
+1,ui,Tiles,,TODO,1,level5:981:UIEditModeButton.tooltip
+1,ui,Tiles (3),,TODO,1,level4:1907:UIEditModeButton.tooltip
+1,ui,Tileset & Background,,TODO,2,level4:1379:lblTilesetAndBackground | level5:806:lblTilesetAndBackground
+1,ui,Title,,TODO,2,level2:2955:lblTitle | level6:987:lblTitle
+1,ui,Tooltip,,TODO,2,level4:1382:Text (TMP) | level5:804:Text (TMP)
+1,ui,TOP 100 - FRIENDS,,TODO,1,level1:1802:SelectorLabel
+1,ui,Top 100 Players,,TODO,1,level1:1805:Top 100
+1,ui,Treasure chests:,,TODO,1,level1:1819:Stat - Treasure Chests
+1,ui,Troubles with Twibbles,,TODO,1,resources.assets:1138:Achievement Name
+1,ui,Up,,TODO,3,level1:1868:lblKey | level2:2938:lblKey | level6:963:lblKey
+1,ui,Up Arrow,,TODO,3,level1:1859:lblValue | level2:2966:lblValue | level6:995:lblValue
+1,ui,Use the fire key to activate a switch.,,TODO,1,level6:975:LabelMessage
+1,ui,User Content,,TODO,1,level1:1758:lblCustomLevels
+1,ui,User levels finished:,,TODO,1,level1:1826:Stat - User Levels FInished
+1,ui,v1.0.0,,TODO,1,level1:1778:Version
+1,ui,Validate Map,,TODO,1,level4:1831:MenuButton.tooltip
+1,ui,"Vector2
+",,TODO,1,resources.assets:1012:Text
+1,ui,"Vector4
+",,TODO,2,resources.assets:987:Text | resources.assets:1074:Text
+1,ui,Votes:,,TODO,1,level1:1849:Label
+1,ui,W,,TODO,1,resources.assets:1032:Text
+1,ui,Weather,,TODO,1,level4:1366:Label (1)
+1,ui,"While having switch selected, right click on a target object.
+
+Note that only specific objects can be linked together.",,TODO,1,level5:805:lbl1 (4)
+1,ui,WORKSHOP LEVELS,,TODO,1,level1:1792:Title
+1,ui,X,,TODO,3,resources.assets:954:Text | resources.assets:1033:Text | resources.assets:1067:Text
+1,ui,Y,,TODO,3,resources.assets:1001:Text | resources.assets:1040:Text | resources.assets:1084:Text
+1,ui,Yes,,TODO,2,level4:1353:txtButton | level5:810:txtButton
+1,ui,"You have found all of the <color=#FFEE83>Hidden Crystals</color>,
+that's using your head!",,TODO,1,level1:1866:LabelMessage
+1,ui,"You have unsaved changes, 
+do you want to continue?",,TODO,2,level4:1420:Title | level5:782:Title
+1,ui,Your score:,,TODO,1,level1:1749:lblScore
+1,ui,Z,,TODO,2,resources.assets:991:Text | resources.assets:1021:Text
+1,ui+achievements,Trouble with Twibbles,,TODO,3,level1:1898:lblEpisode1 | level1:1899:lblEpisode1 | resources.assets:914:AchievementsBank.achievements[0].name
+1,ui+achievements+episodes,The Final Frontier,,TODO,4,level1:1903:lblEpisode4 | level1:1908:lblEpisode4 | resources.assets:914:AchievementsBank.achievements[3].name | sharedassets1.assets:281:EpisodeInfo.episodeTitle
+1,ui+code,Overall,,TODO,2,level1:1901:lblOverall | Assembly-CSharp.dll:13074
+1,ui+code,Publish,,TODO,2,level4:1396:txtButton | Assembly-CSharp.dll:22315
+1,ui+code,Uploading...,,TODO,2,level4:1401:lblUploadingText | Assembly-CSharp.dll:22355
+1,ui+code,"Use the fire key to
+activate a switch.",,TODO,8,level2:2947:LabelMessage | level6:971:LabelMessage | level7:746:LabelMessage | level7:754:LabelMessage | level7:756:LabelMessage | level8:167:LabelMessage | Assembly-CSharp.dll:7939 | Assembly-CSharp.dll:36104
+1,ui+editor,Exit,,TODO,4,level4:1431:MenuButton.tooltip | level5:1192:MenuButton.tooltip | sharedassets4.assets:4551:PrefObject.objectName | sharedassets4.assets:4552:PrefObject.objectName
+1,ui+episodes,Mylo versus The Supernova,,TODO,3,level1:1905:lblEpisode3 | level1:1907:lblEpisode3 | sharedassets1.assets:280:EpisodeInfo.episodeTitle
+1,ui+story,"
+
+
+As the turbovator travels on the outside of
+the VeeGer a massive energy bolt lashes out
+from the storm and strikes the turbovator
+with Mylo in it causing an over load in the
+power systems of the ship and triggers
+the explosive bolts on the turbovator to
+accidently fire thrusting it directly into
+the worm hole.  
+",,TODO,2,level7:738:LabelMain | level7:843:StoryWindow.entries[1].text
+1,ui+story,"
+
+Can he succeed at his new hair-brained
+get rich scheme?
+
+
+And how will all of this eventually lead to
+the galaxy's largest burger franchise?
+
+
+
+Continue your journey and find out!",,TODO,2,level3:332:LabelMain | level3:429:StoryWindow.entries[2].text
+1,ui+story,"
+
+Mylo signs the document and returns to
+his ship. Seconds later Rip's ship goes
+into hyperspace.
+
+Mylo stands near his ship's viewport,
+a happy man. Finally rich, he thinks to
+himself. Finally rich.
+
+As he turns from the view, he notices a
+bright flash...",,TODO,2,level3:323:LabelMain | level3:407:StoryWindow.entries[3].text
+1,ui+story,"
+After enjoying all the adventures of parts of
+the galaxy that very few people ever get to
+see, the final destination the mysterious
+badlands triangle is finally within sight.
+
+As the VeeGer approaches at “space normal
+speed” an increased amount of electrical
+activity starts to dance across the badlands
+triangle illuminating many unknown or
+uncharted phenomenon that science hasn’t
+even come close to identifying.  
+",,TODO,2,level7:742:LabelMain | level7:786:StoryWindow.entries[1].text
+1,ui+story,"
+After successfully clearing out the
+infested mine, the colony foreman pays
+Mylo what he thinks is a fair price for the
+crystals he has collected. 
+
+“Wait!” said Mylo, “this isn’t enough to
+get me home.”
+
+The foreman replies. “This is all I can
+afford to pay you for the crystals, but good
+luck on your journey home.”",,TODO,2,level3:322:LabelMain | level3:378:StoryWindow.entries[0].text
+1,ui+story,"
+After yet another failure, Mylo is more
+determined than ever to strike it rich.
+
+In the next episode, you'll go back to the
+crystal caves to get enough crystals for
+Mylo's most ambitious scheme yet.
+
+Can he pass the deadly aliens, traps and
+puzzles once again?
+
+
+Only one way to find out!",,TODO,2,level3:320:LabelMain | level3:411:StoryWindow.entries[2].text
+1,ui+story,"
+Mylo Burger is Born...
+
+Finally, one of Mylo's ideas has paid off!
+
+Ever since he opened Mylo Burger,
+overlooking the brilliantly colorful
+nebula, his burger stand has been the
+hottest hangout in the galaxy.
+
+Now he's even thinking about franchises
+but first he must wait for other stars
+to explode!",,TODO,2,level3:318:LabelMain | level3:359:StoryWindow.entries[3].text
+1,ui+story,"
+When the turbovator comes out the other
+side of the wormhole, Mylo has no idea
+where he is. He connects his quadcorder to
+the computer in the turbovator and it
+reportsthat he is in the delta quadrant,
+70,000 light years from home.
+
+A few days later a passing
+salvage ship rescues him, but his vast
+fortune is worthless here, and he needs to
+find a way to pay for transport home.  
+",,TODO,2,level7:741:LabelMain | level7:818:TextDisplayer.text
+1,ui+story,"A Happy Mylo...
+
+In the meantime, Mylo will relax and
+count his cash until his next great
+adventure takes him into the vast
+unknown of space...
+
+The Final Frontier!
+
+These are the continuing voyages of
+Mylo Steamwitz. To boldly blunder
+where no adventurer has trekked before.
+
+To seek new treasures and profits...",,TODO,2,level3:321:LabelMain | level3:405:StoryWindow.entries[0].text
+2,editor,Air Pump,,TODO,1,sharedassets4.assets:4614:PrefObject.objectName
+2,editor,Ball,,TODO,1,sharedassets4.assets:4593:PrefEnemy.enemyName
+2,editor,Banana,,TODO,1,sharedassets4.assets:4495:PrefPickup.pickupName
+2,editor,Bat,,TODO,1,sharedassets4.assets:4499:PrefEnemy.enemyName
+2,editor,Bird,,TODO,1,sharedassets4.assets:4501:PrefEnemy.enemyName
+2,editor,Bird Mother,,TODO,1,sharedassets4.assets:4500:PrefEnemy.enemyName
+2,editor,Bone,,TODO,1,sharedassets4.assets:4600:PrefEnemy.enemyName
+2,editor,Boulder Spawner,,TODO,1,sharedassets4.assets:4579:PrefObject.objectName
+2,editor,Centipede,,TODO,1,sharedassets4.assets:4635:PrefEnemy.enemyName
+2,editor,Cherry,,TODO,1,sharedassets4.assets:4493:PrefPickup.pickupName
+2,editor,Crystalpede,,TODO,1,sharedassets4.assets:4577:PrefEnemy.enemyName
+2,editor,default,,TODO,68,sharedassets4.assets:4272:PrefPickup.pickupName | sharedassets4.assets:4273:PrefPickup.pickupName | sharedassets4.assets:4274:PrefPickup.pickupName | sharedassets4.assets:4275:PrefPickup.pickupName | sharedassets4.assets:4276:PrefPickup.pickupName | sharedassets4.assets:4277:PrefPickup.pickupName | sharedassets4.assets:4278:PrefPickup.pickupName | sharedassets4.assets:4279:PrefPickup.pickupName
+2,editor,Dino,,TODO,1,sharedassets4.assets:4566:PrefEnemy.enemyName
+2,editor,Door (blue),,TODO,1,sharedassets4.assets:4456:PrefObject.objectName
+2,editor,Door (green),,TODO,1,sharedassets4.assets:4639:PrefObject.objectName
+2,editor,Door (red),,TODO,1,sharedassets4.assets:4608:PrefObject.objectName
+2,editor,Door (yellow),,TODO,1,sharedassets4.assets:4609:PrefObject.objectName
+2,editor,Draw Platform,,TODO,1,sharedassets4.assets:4452:PrefObject.objectName
+2,editor,Gas Burner,,TODO,1,sharedassets4.assets:4453:PrefObject.objectName
+2,editor,Ice Block,,TODO,1,sharedassets4.assets:4480:PrefObject.objectName
+2,editor,Invisible Tile (Reverse),,TODO,1,sharedassets4.assets:4481:PrefObject.objectName
+2,editor,Key,,TODO,1,sharedassets4.assets:4448:PrefPickup.pickupName
+2,editor,Letter Egg,,TODO,1,sharedassets4.assets:4461:PrefPickup.pickupName
+2,editor,Lever (blue),,TODO,1,sharedassets4.assets:4443:PrefObject.objectName
+2,editor,Lever (green),,TODO,1,sharedassets4.assets:4450:PrefObject.objectName
+2,editor,Lever (red),,TODO,1,sharedassets4.assets:4472:PrefObject.objectName
+2,editor,Lever (yellow),,TODO,1,sharedassets4.assets:4473:PrefObject.objectName
+2,editor,Light Switch,,TODO,1,sharedassets4.assets:4488:PrefObject.objectName
+2,editor,Map Node,,TODO,1,sharedassets4.assets:4487:PrefObject.objectName
+2,editor,Mecha,,TODO,1,sharedassets4.assets:4598:PrefEnemy.enemyName
+2,editor,Miner's Dew,,TODO,1,sharedassets4.assets:4544:PrefPickup.pickupName
+2,editor,Mining Cart,,TODO,1,sharedassets4.assets:4271:PrefEnemy.enemyName
+2,editor,Neon Platform,,TODO,1,sharedassets4.assets:4484:PrefObject.objectName
+2,editor,Observer,,TODO,1,sharedassets4.assets:4636:PrefEnemy.enemyName
+2,editor,Player Start,,TODO,1,sharedassets4.assets:4580:PrefObject.objectName
+2,editor,Rhinosaur,,TODO,1,sharedassets4.assets:4602:PrefEnemy.enemyName
+2,editor,Robot,,TODO,1,sharedassets4.assets:4599:PrefEnemy.enemyName
+2,editor,Rockman,,TODO,1,sharedassets4.assets:4535:PrefEnemy.enemyName
+2,editor,Shootable Switch,,TODO,1,sharedassets4.assets:4425:PrefObject.objectName
+2,editor,Slug,,TODO,1,sharedassets4.assets:4578:PrefEnemy.enemyName
+2,editor,Snake,,TODO,1,sharedassets4.assets:4467:PrefEnemy.enemyName
+2,editor,Space Light,,TODO,1,sharedassets4.assets:4482:PrefObject.objectName
+2,editor,Spider,,TODO,1,sharedassets4.assets:4427:PrefEnemy.enemyName
+2,editor,Spring,,TODO,1,sharedassets4.assets:4468:PrefEnemy.enemyName
+2,editor,Strawberry,,TODO,1,sharedassets4.assets:4492:PrefPickup.pickupName
+2,editor,Toggle Block,,TODO,1,sharedassets4.assets:4587:PrefObject.objectName
+2,editor,Twibble Spawner,,TODO,1,sharedassets4.assets:4585:PrefObject.objectName
+2,editor,Wall Dino,,TODO,1,sharedassets4.assets:4626:PrefEnemy.enemyName
+2,editor,Worm,,TODO,1,sharedassets4.assets:4426:PrefEnemy.enemyName

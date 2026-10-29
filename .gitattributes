@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.cs text eol=lf
+*.csproj text eol=lf
+*.md text eol=lf
+*.tsv text eol=lf
+*.csv text eol=lf
+*.py text eol=lf
+*.ps1 text eol=crlf
+*.ttf binary

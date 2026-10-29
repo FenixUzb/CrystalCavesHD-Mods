@@ -1,0 +1,22 @@
+{
+  "translation_entries": 446,
+  "static_candidates": 435,
+  "missing_static_candidates": [],
+  "levels_scanned": [
+    "level0",
+    "level1",
+    "level2",
+    "level3",
+    "level4",
+    "level5",
+    "level6",
+    "level7",
+    "level8"
+  ],
+  "raw_story_strings": 41,
+  "missing_raw_story_strings": [],
+  "dynamic_patterns": 8,
+  "tag_mismatches": [],
+  "story_lines_over_40": [],
+  "texture_translation": "disabled; original game textures are not replaced"
+}

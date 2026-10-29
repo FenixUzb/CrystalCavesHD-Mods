@@ -1,0 +1,19 @@
+{
+  "dictionary_entries": 446,
+  "candidate_total": 435,
+  "candidate_coverage": {
+    "1": {
+      "translated": 386,
+      "total": 386,
+      "percent": 100.0,
+      "dynamic_templates": 14
+    },
+    "2": {
+      "translated": 49,
+      "total": 49,
+      "percent": 100.0,
+      "dynamic_templates": 0
+    }
+  },
+  "missing_priority_one": []
+}

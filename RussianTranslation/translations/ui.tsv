@@ -1,0 +1,205 @@
+(Y)es          (N)o	(Y) Да          (N) Нет
+<color=#CDEE98>+1 heart\nLower enemy health</color>\n<color=#FF6B6A>0.5x score</color>	<color=#CDEE98>+1 сердце\nУ врагов меньше здоровья</color>\n<color=#FF6B6A>Счёт ×0,5</color>
+<color=#CDEE98>1.5x score</color>\n<color=#FF6B6A>-1 heart\nLess ammo</color>	<color=#CDEE98>Счёт ×1,5</color>\n<color=#FF6B6A>-1 сердце\nМеньше боеприпасов</color>
+A secret Wormhole has opened	Открылась тайная червоточина
+About Apogee	Об Apogee
+Achieved	Получено
+Achievement Earned	Получено достижение
+Achievement name	Название достижения
+ACHIEVEMENTS	Достижения
+Achievements	Достижения
+Arrow keys / WASD	Стрелки / WASD
+Author	Автор
+Author:	Автор:
+Bad	Плохо
+Best episode results	Лучшие результаты эпизода
+Best Score	Рекорд
+BitField\n	Битовая маска\n
+Button	Кнопка
+CHANGING OBJECT PROPERTIES	Изменение свойств объекта
+Color\n	Цвет\n
+Complete a dark level without turning on the lights.	Пройдите тёмный уровень, не включая свет.
+COMPLETED!	Завершено!
+CONFIGURE KEYBOARD	Настройка клавиатуры
+Configure keys	Настроить клавиши
+CONGRATULATIONS!!!	Поздравляем!!!
+CRYSTAL CAVES MENU\n_______________________	МЕНЮ CRYSTAL CAVES\n_______________________
+Crystals collected:	Собрано кристаллов:
+CRYSTALS:	Кристаллы:
+Ctrl + left click	Ctrl + левая кнопка
+CUSTOM MAPS	Пользовательские карты
+Deaths:	Смертей:
+Default	По умолчанию
+Delete	Удалить
+Description	Описание
+Description:	Описание:
+Difficulty:	Сложность:
+Do you really want to quit the game?	Точно выйти из игры?
+Do you want to quit the game?	Выйти из игры?
+Down	Вниз
+Down Arrow	Стрелка вниз
+Downloads:	Загрузки:
+Easy	Легко
+Enemies killed:	Убито врагов:
+ENTRIES: 0	Записей: 0
+Episode 1	Эпизод 1
+Episode 2	Эпизод 2
+Episode 3	Эпизод 3
+Episode 4	Эпизод 4
+falling Rocks	Камнепад
+Festive Content	Праздничный контент
+Fill terrain	Заполнить ландшафт
+Fire	Стрельба
+Foldout	Раздел
+Fruit collected:	Собрано фруктов:
+Full screen artwork	Заставки
+Fullscreen	Полный экран
+Game Design	Геймдизайн
+GAME SETTINGS	Настройки игры
+Game tips	Игровые подсказки
+Gamepad Fire	Стрельба на геймпаде
+Gamepad Jump	Прыжок на геймпаде
+Gameplay statistics	Статистика игры
+Global	Общий
+Graphics	Графика
+Graphics Routines	Графический код
+Graphics, Game Design	Графика, геймдизайн
+Great	Отлично
+Hard	Сложно
+HELP\n____________________________________	ПОМОЩЬ\n____________________________________
+How would you rate the level?	Как вы оцените этот уровень?
+Info	Сведения
+Inverse Gravity	Обратная гравитация
+Jump	Прыжок
+KEY SHORTCUTS	Горячие клавиши
+Leaderboards	Рекорды
+LEADERBOARDS	Таблицы лидеров
+Left	Влево
+Left Arrow	Стрелка влево
+Left Control	Левый Ctrl
+Level description	Описание уровня
+Level Editor	Редактор
+Level Playtime	Время на уровне
+Levels finished:	Пройдено уровней:
+Loading maps...	Загрузка карт...
+Loading scores...	Загрузка результатов...
+Low Gravity	Низкая гравитация
+Main Level	Карта
+Map	Карта
+Map Name	Название карты
+MAP SETTINGS	Настройки карты
+MAP SETTINGS\n___________________________	НАСТРОЙКИ КАРТЫ\n___________________________
+Message, show yourself!	Сообщение, появись!
+Metal Factory \n	Металлургический завод\n
+Middle mouse + Drag	Средняя кнопка + перемещение
+Music	Музыка
+Navigate	Навигация
+New game	Новая игра
+New Text	Новый текст
+Next/prev tile	Следующая/предыдущая плитка
+No	Нет
+Normal	Нормально
+Off	Выкл.
+off	Выкл.
+on	Вкл.
+Open	Открыть
+OPEN MAP	Открыть карту
+OPEN MAP\n____________________________________	ОТКРЫТЬ КАРТУ\n____________________________________
+Options	Настройки
+Original experience	Как в оригинале
+ORIGINAL GAME	Оригинальная игра
+Page 1	Страница 1
+Page: ...	Страница: ...
+press any key	нажмите любую клавишу
+Programming, Graphics,\nGame Design	Код, графика,\nгеймдизайн
+PUBLISH TO STEAM	Опубликовать в Steam
+Quit	Выход
+Quit game	Выйти из игры
+QUIT TO?	Куда выйти?
+Regen Bcg	Новый фон
+Reputation:	Рейтинг:
+Restart	Начать заново
+Restore game	Загрузить игру
+RESTORE GAME	Загрузить игру
+Restore Game	Загрузить игру
+Right	Вправо
+Right Arrow	Стрелка вправо
+Right Control	Правый Ctrl
+Rockets fired:	Выпущено ракет:
+Rumble	Вибрация
+Save	Сохранить
+SAVE GAME	Сохранить игру
+Save game	Сохранить игру
+SAVE MAP	Сохранить карту
+SAVE MAP\n____________________________________	СОХРАНИТЬ КАРТУ\n____________________________________
+Score	Счёт
+Score items found:	Призов найдено:
+Secret crystals found:	Тайных кристаллов:
+Select activator with a left-click and make a connection with a target object by right clicking on it.	Выберите активатор левой кнопкой, затем правой кнопкой укажите связанный объект.
+SELECT AN EPISODE	Выберите эпизод
+SELECT AN OPTION	Выберите действие
+SELECT DIFFICULTY	Выберите сложность
+SELECT LEADERBOARDS	Выберите таблицу лидеров
+Settings	Настройки
+Shift + left click	Shift + левая кнопка
+Ship date	Бортовая дата
+Skin	Облик
+Skip	Пропустить
+Some objects have more than one property and you can switch between them by right-clicking on the object.	У некоторых объектов несколько свойств. Переключайте их правой кнопкой мыши.
+Sound 	Звук
+Statistics	Статистика
+STATISTICS	Статистика
+Status:	Статус:
+Steam Workshop	Мастерская
+Story	Сюжет
+Studio content	Уровни разработчиков
+subscribed	подписки
+Switch edit modes	Сменить режим редактирования
+TARGETING OBJECTS	Связывание объектов
+Targeting objects\n	Связывание объектов\n
+TEST	Тест
+Theme	Оформление
+Tileset & Background	Плитки и фон
+Title	Название
+Tooltip	Подсказка
+TOP 100 - FRIENDS	100 лучших — друзья
+Top 100 Players	100 лучших игроков
+Treasure chests:	Сундуков:
+Up	Вверх
+Up Arrow	Стрелка вверх
+User Content	Свои уровни
+User levels finished:	Свои уровни пройдены:
+Vector2\n	Вектор 2\n
+Vector4\n	Вектор 4\n
+Votes:	Голосов:
+Weather	Погода
+While having switch selected, right click on a target object.\n\nNote that only specific objects can be linked together.	Выберите переключатель и щёлкните правой кнопкой по цели.\n\nСвязывать можно только определённые объекты.
+WORKSHOP LEVELS	Уровни из мастерской
+Yes	Да
+Your score:	Ваш счёт:
+Overall	Общий зачёт
+Publish	Опубликовать
+Update	Обновить
+Mylo	Майло
+Classic Gray	Классический серый
+Santa	Санта
+Terrain	Ландшафт
+Grid	Сетка
+Tiles	Плитки
+Pickups	Предметы
+Enemies	Враги
+Objects	Объекты
+Navigation	Навигация
+Help	Справка
+Minimap	Мини-карта
+New	Новая карта
+Open Map	Открыть карту
+Publish to Steam	Опубликовать в Steam
+Randomize Terrain	Случайный ландшафт
+Save As	Сохранить как
+Test	Тест
+Validate Map	Проверить карту
+Latest	Новые
+TOP 100 - Friends	100 лучших — друзья
+<map name goes here>	[название карты]
+<press any key>	[нажмите любую клавишу]
